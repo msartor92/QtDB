@@ -11,12 +11,14 @@ QtDB è un applicazione scritta in C++ basata sulla Libreria [Qt](http://www.qt.
 **Template di classe Container<K>**
 Ho definito un template di classe Container<K> i cui elemenmti rappresentano un contenitore di oggetti di tipo K. La classe Container<K> è una lista doppiamente lincata che fornisce le funzionalit`a di: 
 
-(1) inserimento, 
-(2) rimozione, 
-(3) ricerca,
-(4) modifica,
-(5) gestione degli iteratori
-(6) stampa.
+| # | Funzionalità |
+| ------------- | ------------- |
+| 1 | inserimento | 
+| 2 | rimozione |
+| 3 | ricerca |
+| 4 | modifica |
+| 5 | gestione degli iteratori |
+| 6 | stampa |
 
 **Gerarchia di classi**
 Ho definito una gerarchia di classi G composta da tre classi A, B e C che modellano una realtà di oggetti da gestire tramite il database. La realtà di oggetti che ho scelto di modellare sono le memorie di massa. 
