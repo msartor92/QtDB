@@ -31,12 +31,14 @@ puntatore polimorfo ad A — e conseguentemente di popolare il contenitore con o
 **Interfaccia Grafica**
 Ho sviluppato una GUI usando la libreria Qt che permetta all’utente di gestire agevolmente il database di oggetti delle classi della gerarchia. Ho quindi sviluppato una GUI per la gestione di un contenitore di puntatori (smart) polimorfi alla superclasse A della gerarchia, che come requisito permette:
 
-(1) inserimenti
-(2) rimozioni
-(3) ricerche
-(4) modifiche
-(5) caricamento di dati da file di testo preformattati
-(6) memorizzazione del databese su file di testo
+| # | Funzionalità |
+| ------------- | ------------- |
+| 1 | inserimenti | 
+| 2 | rimozioni |
+| 3 | ricerche |
+| 4 | modifiche |
+| 5 | caricamento di dati da file di testo preformattati |
+| 6 | memorizzazione del databese su file di testo |
 
 di oggetti della gerarchia nel database rappresentato dal contenitore C.
 
