@@ -1,6 +1,6 @@
 # QtDB
 
-Progetto del corso di programmazione ad oggetti  realizzato nell'anno accademico 2013/2014 per il corso di laurea in informatica dell'[Università Degli Studi di Padova](www.unipd.it) da Sartor Michele e-mail:michele.sartor.2@studenti.unipd.it
+Progetto del corso di programmazione ad oggetti  realizzato nell'anno accademico 2013/2014 per il corso di laurea in informatica dell'[Università Degli Studi di Padova](http://www.unipd.it) da Sartor Michele e-mail:michele.sartor.2@studenti.unipd.it
 
 ##Descrizione del progetto
 
