@@ -4,12 +4,13 @@ Progetto del corso di programmazione ad oggetti  realizzato nell'anno accademico
 
 ##Descrizione del progetto
 
-QtDB è un applicazione scritta in C++ basata sulla Libreria [Qt](http://www.qt.io/) versione 4.8 che costituisce un sistema minimale per la gestione di un (piccolo) database tramite una interfaccia utente grafica.
+QtDB è un applicazione scritta in C++ basata sulla Libreria [Qt](http://www.qt.io/) versione 4.8 che costituisce un sistema minimale per la gestione di un (piccolo) database tramite una [GUI](http://it.wikipedia.org/wiki/Interfaccia_grafica).
 
 ##Componenti
 
 **Template di classe Container<K>**
-Ho definito un template di classe Container<K> i cui oggetti rappresentano un contenitore di oggetti di tipo K. La classe Container<K> è una lista doppiamente lincata che fornisce le funzionalit`a di: 
+Ho definito un template di classe Container<K> i cui elemenmti rappresentano un contenitore di oggetti di tipo K. La classe Container<K> è una lista doppiamente lincata che fornisce le funzionalit`a di: 
+
 (1) inserimento, 
 (2) rimozione, 
 (3) ricerca,
