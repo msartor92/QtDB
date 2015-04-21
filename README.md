@@ -18,7 +18,7 @@ Ho definito un template di classe Container<K> i cui oggetti rappresentano un co
 (6) stampa.
 
 **Gerarchia di classi**
-Ho definito una gerarchia di classi G composta da tre classi A, B e C che modellano una realt`a di oggetti da gestire tramite il database. La realt'a di oggetti che ho scelto di modellare sono le memorie di massa. 
+Ho definito una gerarchia di classi G composta da tre classi A, B e C che modellano una realtà di oggetti da gestire tramite il database. La realtà di oggetti che ho scelto di modellare sono le memorie di massa. 
 La classe base, MemoriaMassa,  e ` quindi superclasse di ogni altra classe della gerarchia G. Vi sono inoltre due sottoclassi, SSD e Tradiazionale, che rappresentano hard disk dei corrispondenti tipi. 
 Le classi della gerarchia sono dotate di opportune interfacce pubbliche contenti i metodi per la gestione dei dati.
 
